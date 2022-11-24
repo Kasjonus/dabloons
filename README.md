@@ -20,25 +20,26 @@
 -   -50 D
 -   +4 D
 -   +100 D
+-   +4 D
 
 ## Summary:
 
-## 263 dabloons
+## 267 dabloons
 
 ---
 
 # Items:
 
 -   suit
--   dragon (protects me)
--   sword
+-   dragon (4-7 protect chance)
+-   sword (7-10 protect chance)
 -   full first aid kit
 -   Blue crystal (illegal)
 
-Persons:
+# Persons:
 
 -   Ally (give me Blue crystal)
--   Mr. Dabloon (Lawyer)
+-   Mr. Dabloon (Lawyer) (1-7 protect chance)
 
 # Immovables:
 
